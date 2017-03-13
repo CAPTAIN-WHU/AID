@@ -1,6 +1,6 @@
 ### AID: A Benchmark Dataset for PerformanceEvaluation of Aerial Scene Classification
 
-### Gui-Song Xia, Jingwen Hu, Fan Hu, Baoguang Shi, Xiang Bai, Yanfei Zhong, Xiaoqiang Lu, Liangpei Zhang
+** Gui-Song Xia, Jingwen Hu, Fan Hu, Baoguang Shi, Xiang Bai, Yanfei Zhong, Xiaoqiang Lu, Liangpei Zhang **
 
 **- Abstract**
 
