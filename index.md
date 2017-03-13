@@ -2,11 +2,11 @@
 
 ### Gui-Song Xia, Jingwen Hu, Fan Hu, Baoguang Shi, Xiang Bai, Yanfei Zhong, Xiaoqiang Lu, Liangpei Zhang
 
-**- Abstract
+**- Abstract**
 
 Aerial scene classification, which aims to automatically label an aerial image with a specific semantic category,is a fundamental problem for understanding high-resolutionremote sensing imagery. In recent years, it has become an activetask in the remote sensing area and numerous algorithms havebeen proposed for this task, including many machine learningand data-driven approaches. However, the existing datasets foraerial scene classification like UC-Merced dataset and WHURS19 are with relatively small sizes, and the results on themare already saturated. This largely limits the development ofscene classification algorithms. This paper describes the AerialImage Dataset (AID): a large-scale dataset for aerial sceneclassification. The goal of AID is to advance the state-of-thearts in scene classification of remote sensing images. For creatingAID, we collect and annotate more than ten thousand aerial sceneimages. In addition, a comprehensive review of the existing aerialscene classification techniques as well as recent widely-used deeplearning methods is given. Finally, we provide a performanceanalysis of typical aerial scene classification and deep learningapproaches on AID, which can be served as the baseline resultson this benchmark.
 
-**- AID: a new dataset -[download](https://pan.baidu.com/s/1mifOBv6)
+**- AID: a new dataset -[download](https://pan.baidu.com/s/1mifOBv6)**
 
 AID is a new large-scale aerial image dataset, by collecting sample images from Google Earth imagery. Note that although the Google Earth images are post-processed using RGB renderings from the original optical aerial images, it has proven that there is no significant difference  between the Google Earth images with the real optical aerial images even in the pixel-level land use/cover mapping. Thus, the Google Earth images can also be used as aerial images for evaluating scene classification algorithms.  
 
