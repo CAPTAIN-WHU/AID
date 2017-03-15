@@ -15,3 +15,8 @@ The new dataset is made up of the following 30 aerial scene types: airport, bare
 The images in AID are actually multi-source, as Google Earth images are from different remote imaging sensors. This brings more challenges for scene classification than the single source images like UC-Merced dataset. Moreover, all the sample images per each class in AID are carefully chosen from different countries and regions around the world, mainly in China, the United States,     England, France, Italy, Japan, Germany, etc., and they are extracted at different time and seasons under different imaging conditions, which increases the intra-class diversities of the data. 
 
 **- Baseline methods- [codes](https://github.com/CAPTAIN-WHU/AID)**
+
+We evaluate the following three kinds of scene classification methods: 
+1. Low-level methods: Scale Invariant Feature Transform (SIFT), Local Binary Pattern (LBP), Color Histogram (CH) and GIST. 
+2. Mid-level methods: Bag of Visual Words (BoVW), Spatial Pyramid Matching (SPM), Locality-constrained Linear Coding (LLC),  Probabilistic Latent Semantic Analysis (pLSA), Latent Dirichlet allocation (LDA), Improved Fisher kernel (IFK) and Vector of Locally Aggregated Descriptors (VLAD) combined with three local feature descriptors (i.e., SIFT, LBP and CH). 
+3. High-level methods:  CaffeNet, VGG-VD-16 and GoogLeNet.
